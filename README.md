@@ -2,8 +2,6 @@
 
 This project is a responsive blog preview card built with pure HTML and CSS. It is based on a challenge from [Frontend Mentor](https://www.frontendmentor.io) designed to enhance front-end coding skills by replicating realistic projects.
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
-
 ## Table of Contents
 
 - [Overview](#overview)
