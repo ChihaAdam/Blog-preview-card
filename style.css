@@ -18,11 +18,12 @@ body{
     border-radius: 20px;
     display: flex;
     box-shadow: 10px 10px hsl(0, 0%, 7%);
+    border: 1px solid hsl(0, 0%, 7%);
     flex-direction: column;
     gap:24px;
 }
 .container > * {
-    margin:0px ;
+    margin:0px;
 }
 .main{
     display: flex;
