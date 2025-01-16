@@ -26,7 +26,7 @@ This project is a responsive blog preview card built with pure HTML and CSS. It 
 
 ### Screenshot
 
-![Blog Preview Card Screenshot](./preview.jpg)
+![Blog Preview Card Screenshot](./screenshot.png)
 
 ### Links
 
